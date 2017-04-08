@@ -1,0 +1,10 @@
+/microsoft.com/
+/images/lc39a.gif
+/persons/people.html
+/htbin/wais.pl?Transportable+Tracking+Station
+/cgi-bin/imagemap/countdown70?219,84
+/cgi-bin/imagemap/countdown?371,110
+/htbin/wais.pl?eva
+/news/sci.space.news/2080
+/facilities/saef2.html
+/pub/winvn/winvn.html
